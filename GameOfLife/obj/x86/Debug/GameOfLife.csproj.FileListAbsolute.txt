@@ -1,0 +1,5 @@
+C:\gameoflife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\gameoflife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\gameoflife\GameOfLife\obj\x86\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\gameoflife\GameOfLife\obj\x86\Debug\GameOfLife.exe
+C:\gameoflife\GameOfLife\obj\x86\Debug\GameOfLife.pdb
