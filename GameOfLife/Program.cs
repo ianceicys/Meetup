@@ -6,6 +6,20 @@ namespace GameOfLife
     {
         static void Main(string[] args)
         {
+            //Game
+            // Cell Class
+            //  Cell will take x and y
+            // Grid Class
+            // Grid class will contain cells.
+            
+            
+            //Question - Do cells know about each other
+            
+            [Test Method]
+            Console.WriteLine("Game");
+            
+            
+            
             // Simple Pattern
             //Game objLifeGame = new Game(4, 4);
             //objLifeGame.ToggleGridCell(1, 1);
